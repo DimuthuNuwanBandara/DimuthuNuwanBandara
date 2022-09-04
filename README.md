@@ -33,8 +33,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimunuwan&show_icons=true&locale=en&layout=compact" alt="dimunuwan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimuthunuwan99&show_icons=true&locale=en&layout=compact" alt="dimuthunuwan99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimunuwan&show_icons=true&locale=en" alt="dimunuwan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimuthunuwan99&show_icons=true&locale=en" alt="dimuthunuwan99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimunuwan&" alt="dimunuwan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthunuwan99&" alt="dimuthunuwan99" /></p>
