@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- My Projects also in https://dimuthunuwan99.github.io/
+- My Projects also in https://DimuthuNB.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
