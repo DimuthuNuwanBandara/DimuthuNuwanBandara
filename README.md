@@ -35,8 +35,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimuthunuwan99&show_icons=true&locale=en&layout=compact" alt="dimuthunuwan99" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuNB&show_icons=true&locale=en&layout=compact" alt="DimuthuNB" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimuthunuwan99&show_icons=true&locale=en" alt="dimuthunuwan99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuNB&show_icons=true&locale=en" alt="DimuthuNB" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthunuwan99&" alt="dimuthunuwan99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DimuthuNB&" alt="DimuthuNB" /></p>
