@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- My Projects also in https://DimuthuNB.github.io/
+- My Projects also in https://DimuthuNuwanBandara.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +35,8 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuNB&show_icons=true&locale=en&layout=compact" alt="DimuthuNB" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuNuwanBandara&show_icons=true&locale=en&layout=compact" alt="DimuthuNuwanBandara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuNB&show_icons=true&locale=en" alt="DimuthuNB" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuNuwanBandara&show_icons=true&locale=en" alt="DimuthuNuwanBandara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DimuthuNB&" alt="DimuthuNB" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DimuthuNuwanBandara&" alt="DimuthuNuwanBandara" /></p>
