@@ -37,8 +37,15 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuNuwanBandara&show_icons=true&locale=en&layout=compact" alt="DimuthuNuwanBandara" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuNuwanBandara&show_icons=true&locale=en&layout=compact" alt="DimuthuNuwanBandara"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuNuwanBandara&show_icons=true&locale=en" alt="DimuthuNuwanBandara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DimuthuNuwanBandara&" alt="DimuthuNuwanBandara" /></p>
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimuthuNuwanBandara&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DimuthuNuwanBandara&theme=monokai)
+
