@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dimuthu-nuwan-bandara-b290901b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dimuthu.nuwandnb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dimuthu.nuwan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dimuthu.nuwan_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://twitter.com/?lang=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href="https://www.whatsapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
  <a href = "mailto: dimuthunuwan2016n@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
@@ -78,7 +78,7 @@
       <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/dimuthu.nuwan/" target="_blank">
+  <a href="https://www.instagram.com/dimuthu.nuwan_/" target="_blank">
     <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 
