@@ -36,7 +36,7 @@
 
 - My Projects also in https://DimuthuNuwanBandara.github.io/
 
-- Website https://dimuthu-portfolio.herokuapp.com/
+- Website https://dimuthunuwanbandara.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
